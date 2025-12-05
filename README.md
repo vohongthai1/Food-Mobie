@@ -82,5 +82,46 @@ Food-Mobie/
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Giao diện ứng dụng
+
+### Màn hình giới thiệu
+![Màn hình giới thiệu](app/src/main/res/drawable-hdpi/intro_pic.png)
+
+### Màn hình đăng nhập
+![Màn hình đăng nhập](app/src/main/res/drawable-hdpi/orange_background.png)
+
+### Màn hình chính - Menu món ăn
+![Menu món ăn](app/src/main/res/drawable-hdpi/btn_1.png)
+![Menu món ăn 2](app/src/main/res/drawable-hdpi/btn_2.png)
+![Menu món ăn 3](app/src/main/res/drawable-hdpi/btn_3.png)
+![Menu món ăn 4](app/src/main/res/drawable-hdpi/btn_4.png)
+
+### Màn hình chi tiết món ăn
+![Chi tiết món ăn](app/src/main/res/drawable-hdpi/btn_5.png)
+![Chi tiết món ăn 2](app/src/main/res/drawable-hdpi/btn_6.png)
+
+### Màn hình giỏ hàng
+![Giỏ hàng](app/src/main/res/drawable-hdpi/cart.png)
+
+### Màn hình thanh toán
+![Thanh toán](app/src/main/res/drawable-hdpi/dollar.png)
+
+### Các icon và UI components
+- **Logo ứng dụng**: ![Logo](app/src/main/res/drawable-hdpi/logo.png)
+- **Giỏ hàng**: ![Giỏ hàng](app/src/main/res/drawable-hdpi/cart.png)
+- **Tìm kiếm**: ![Tìm kiếm](app/src/main/res/drawable-hdpi/search_icon.png)
+- **Vị trí**: ![Vị trí](app/src/main/res/drawable-hdpi/location.png)
+- **Thời gian**: ![Thời gian](app/src/main/res/drawable-hdpi/time.png)
+- **Đánh giá**: ![Đánh giá](app/src/main/res/drawable-hdpi/star.png)
+- **Yêu thích**: ![Yêu thích](app/src/main/res/drawable-hdpi/favorite_white.png)
+- **Mũi tên**: ![Mũi tên](app/src/main/res/drawable-hdpi/arrow.png)
+- **Cài đặt**: ![Cài đặt](app/src/main/res/drawable-hdpi/settings.png)
+- **Đăng xuất**: ![Đăng xuất](app/src/main/res/drawable-hdpi/logout.png)
+
+### Social Login
+- **Facebook**: ![Facebook](app/src/main/res/drawable-hdpi/facebook.png)
+- **Google**: ![Google](app/src/main/res/drawable-hdpi/google.png)
+- **Twitter**: ![Twitter](app/src/main/res/drawable-hdpi/twitter.png)
+
 ## Hỗ trợ
 Nếu có bất kỳ vấn đề nào, vui lòng tạo issue trong repository hoặc liên hệ với tác giả.
